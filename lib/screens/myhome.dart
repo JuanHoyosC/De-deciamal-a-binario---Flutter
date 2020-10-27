@@ -12,7 +12,7 @@ class MyHome extends StatelessWidget {
         ),
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Programación Móvil 2020'),
+              title: Text('Converter'),
             ),
             body: Center(child: Converter())));
   }
